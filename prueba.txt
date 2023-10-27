@@ -1,0 +1,62 @@
+mientras (6 <= 20){Verdadero			
+	S = 15 + 6 = 21
+	i = 6 + 1 = 7
+}
+mientras (7 <= 20){Verdadero
+	S = 21 + 7 = 28
+	i = 7 + 1 = 8
+}
+mientras (8 <= 20){Verdadero
+	S = 28 + 8 = 36
+	i = 8 + 1 = 9
+}
+mientras (9 <= 20){Verdadero
+	S = 36 + 9 = 45
+	i = 9 + 1 = 10
+}
+mientras (10 <= 20){Verdadero
+	S = 45 + 10 = 55
+	i = 10 + 1 = 11
+}
+mientras (11 <= 20){Verdadero
+	S = 55 + 11 = 66
+	i = 11 + 1 = 12
+}
+mientras (12 <= 20){Verdadero
+	S = 66 + 12 = 78
+	i = 12 + 1 = 13
+}
+mientras (13 <= 20){Verdadero
+	S = 78 + 13 = 91
+	i = 13 + 1 = 14
+}
+mientras (14 <= 20){Verdadero
+	S = 91 + 14 = 105
+	i = 14 + 1 = 15
+}
+mientras (15 <= 20){Verdadero
+	S = 105 + 15 = 120
+	i = 15 + 1 = 16
+}
+mientras (16 <= 20){Verdadero
+	S = 120 + 16 = 136
+	i = 16 + 1 = 17
+}
+mientras (17 <= 20){Verdadero
+	S = 136 + 17 = 153
+	i = 17 + 1 = 18
+}
+mientras (18 <= 20){Verdadero
+	S = 153 + 18 = 171
+	i = 18 + 1 = 19
+}
+mientras (19 <= 20){Verdadero
+	S = 171 + 19 = 190
+	i = 19 + 1 = 20
+}
+mientras (20 <= 20){Verdadero
+	S = 190 + 20 = 210
+	i = 20 + 1 = 21
+}
+mientras (21 <= 20){Falso
+}
